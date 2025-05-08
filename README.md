@@ -57,12 +57,8 @@ An intelligent AI-powered chatbot built using Hugging Face's transformer models.
 The model and other settings can be adjusted in `config.py` (if applicable). For example, change the Hugging Face model:
 
 ```python
-MODEL_NAME = "microsoft/DialoGPT-medium"
+MODEL_NAME = "facebook/blenderbot-400M-distill"
 ```
-
-## 📷 Screenshots
-
-![Chatbot Screenshot](./screenshots/demo.png)
 
 ## 📦 Deployment
 
